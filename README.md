@@ -1,10 +1,12 @@
 # 👋 Hey there
 <div align="justify">
-    My name is Michał and I'm a Full Stack Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    I'm a web development enthusiast, with a keen focus on HTML, CSS, and JavaScript to craft engaging and user-friendly front-end experiences. Additionally, I explore the world of C, C++, and Python for versatile software solutions.
+
+I'm always eager to learn and collaborate. Let's create, innovate, and code for a better tomorrow!
 </div>
 
-<br/><a href="https://www.linkedin.com/in/michalosman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:michal.osman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<br/></a>
+<a href="mailto:sreejithkr047@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 # 🔧 Technologies & Tools
 
