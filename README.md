@@ -19,7 +19,7 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
         height="48"
         alt="C"
       />
-      <br /><strong>C</strong>
+      <br/><strong>C</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -84,9 +84,8 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
         height="48"
         alt="Node.js"
       />
-      <br /><strong>Node.js</strong>
+      <br /><strong>Node.js</strong
     </td>
-  
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
@@ -96,7 +95,6 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
       />
       <br /><strong>MySQL</strong>
     </td>
- 
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
