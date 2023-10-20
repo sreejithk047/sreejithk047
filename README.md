@@ -75,15 +75,6 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
       />
       <br /><strong>WordPress</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="48"
-        height="48"
-        alt="Material UI"
-      />
-      <br /><strong>Material UI</strong>
-    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -95,24 +86,7 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
       />
       <br /><strong>Node.js</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express"
-      />
-      <br /><strong>Express</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
+  
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
@@ -122,15 +96,7 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
       />
       <br /><strong>MySQL</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
-      <br /><strong>Firebase</strong>
-    </td>
+ 
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -139,15 +105,6 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
         alt="Python"
       />
       <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-        width="48"
-        height="48"
-        alt="Docker"
-      />
-      <br /><strong>Docker</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
