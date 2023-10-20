@@ -14,7 +14,7 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicons/devicon/tree/master/icons/csharp/csharp-original.svg"
         width="48"
         height="48"
         alt="TypeScript"
