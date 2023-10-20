@@ -23,12 +23,12 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         width="48"
         height="48"
-        alt="VueJS"
+        alt="HTML"
       />
-      <br /><strong>Vue</strong>
+      <br /><strong>Html</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -41,39 +41,39 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
         width="48"
         height="48"
-        alt="Next.js"
+        alt="Css"
       />
-      <br /><strong>Next.js</strong>
+      <br /><strong>Css</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
         height="48"
-        alt="Sass"
+        alt="Git"
       />
-      <br /><strong>Sass</strong>
+      <br /><strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
         width="48"
         height="48"
-        alt="Tailwind"
+        alt="GitHub"
       />
-      <br /><strong>Tailwind</strong>
+      <br /><strong>GitHub</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="WordPress"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>WordPress</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -115,12 +115,12 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
         width="48"
         height="48"
-        alt="PostgreSQL"
+        alt="MySQL"
       />
-      <br /><strong>PostgreSQL</strong>
+      <br /><strong>MySQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -151,12 +151,12 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
         width="48"
         height="48"
-        alt="AWS"
+        alt="GoogleCloud"
       />
-      <br /><strong>AWS</strong>
+      <br /><strong>GoogleCloud</strong>
     </td>
   </tr>
 </table>
