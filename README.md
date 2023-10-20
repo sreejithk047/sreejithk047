@@ -14,7 +14,7 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://img.shields.io/github/license/:user/:repo"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
         width="48"
         height="48"
         alt="TypeScript"
