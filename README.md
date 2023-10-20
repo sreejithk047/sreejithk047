@@ -57,6 +57,8 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
       />
       <br /><strong>Git</strong>
     </td>
+  </tr>
+    <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
@@ -66,17 +68,6 @@ I'm always eager to learn and collaborate. Let's create, innovate, and code for 
       />
       <br /><strong>GitHub</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"
-        width="48"
-        height="48"
-        alt="WordPress"
-      />
-      <br /><strong>WordPress</strong>
-    </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
